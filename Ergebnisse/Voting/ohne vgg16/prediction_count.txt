@@ -1,0 +1,1 @@
+{'images': 11856, 'wmprediction': 10248, 'uwmprediction': 10151, 'pmprediction': 10187, 'resnet50v2rev': 9124, 'resnet50v2obv': 8741, 'resnet50v2both': 9206, 'resnet101v2both': 9133, 'resnet101v2rev': 9179, 'resnet101v2obv': 8782}
